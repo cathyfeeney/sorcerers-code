@@ -1,0 +1,4 @@
+Harry Programmer and the Sorcerers Code: Scene 1
+
+clear
+touch scene-2.txt
